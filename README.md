@@ -27,3 +27,7 @@ For any inquiries or assistance, please contact [email@example.com](mailto:email
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+Special thanks to Vortex Technologies for their contributions or inspiration.
